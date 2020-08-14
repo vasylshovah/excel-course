@@ -76,4 +76,5 @@ describe('createStore', () => {
             }, 1000)
         })
     })
+    // test('should dispatch in async way', () => {})
 })
